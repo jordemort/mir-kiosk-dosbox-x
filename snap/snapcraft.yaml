@@ -8,9 +8,7 @@ description: |
   don't support it.
 
 architectures:
-  - build-on: i386
   - build-on: amd64
-  - build-on: arm64
   - build-on: armhf
 
 confinement: strict
